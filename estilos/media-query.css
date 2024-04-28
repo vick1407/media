@@ -13,6 +13,7 @@ TV:acima de 1200px
 @media print{ /*impressão*/
 
     *{
+        
         font-family: 'Courier New', Courier, monospace;
     }
 
@@ -31,6 +32,9 @@ TV:acima de 1200px
     }
     img#celular{
         display: none;
+    }
+    img#celular {
+        display: block;
     }
 
 }
