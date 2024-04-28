@@ -18,7 +18,7 @@ TV:acima de 1200px
 
     main{
         text-decoration: overline; /*linha em cima*/
-        border: 2px solid black;
+        border: 2px solid rgba(0, 0, 0, 0.582);
     }
     
     main h1{
