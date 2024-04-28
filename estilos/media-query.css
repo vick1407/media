@@ -37,7 +37,7 @@ TV:acima de 1200px
 
 @media screen and (min-width: 768px) and (max-width: 992px){ /*tablet*/
     body{
-        background-image: url(/imagens/back-tablet.jpg);
+        background-image: url(../imagens/back-tablet.jpg);
     }
 
     img#tablet{
@@ -50,7 +50,7 @@ TV:acima de 1200px
 
 @media screen and (min-width: 992px) and (max-width: 1200px){ /*pc*/
     body{
-        background-image: url(/imagens/back-pc.jpg);
+        background-image: url(../imagens/back-tv.jpg);
     }
 
     img#pc{
@@ -63,7 +63,7 @@ TV:acima de 1200px
 
 @media screen and (min-width: 1200px){ /*tv*/
     body{
-        background-image: url(/imagens/back-tv.jpg);
+        background-image: url(../imagens/back-tv.jpg);
     }
     img#tv{
         display: block;
