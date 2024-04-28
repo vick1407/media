@@ -21,7 +21,8 @@ body{
     margin-top: 20px;
     overflow: hidden;
     background-color: black;
-    background-image: url(imagens/back-phone.jpg);
+    background-image: url(../imagens/back-phone.jpg);
+    background-size: cover;
   
     
 }
